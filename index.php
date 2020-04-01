@@ -1,6 +1,6 @@
 <html>
   <head>
-  <meta http-equiv="refresh" content="4;url=http://localhost/homepg.html">
+  <meta http-equiv="refresh" content="4;url=http://192.168.1.93/index.html">
       <title>MagickalWiz - The Wizards</title>
       <link rel="icon" 
       type="image/png" 
