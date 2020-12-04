@@ -1,0 +1,1 @@
+This repo is for everything I add to the 2020 shared Windows Server website.
